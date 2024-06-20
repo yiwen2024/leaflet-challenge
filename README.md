@@ -17,7 +17,7 @@ Part 2: Gather and Plot More Data
 
 1. The GeoJSON earthquake data of all earthquakes in past 7 days was collected from the USGS website
 
-2. The selected data was mported and visualized:
+2. The selected data was imported and visualized:
 
 Using Leaflet, a map was creaed that plot all the earthquakes from the dataset based on the longitude and latitude.
 
